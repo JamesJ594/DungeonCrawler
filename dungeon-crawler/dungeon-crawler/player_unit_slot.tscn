@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://kkeapf7fi6e3"]
+
+[ext_resource type="Script" uid="uid://b074ll1ug4714" path="res://player_unit_slot.gd" id="1_f3t8k"]
+
+[node name="PlayerUnitSlot" type="TextureRect" unique_id=195286164]
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_f3t8k")

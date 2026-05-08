@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="Unit" format=3 uid="uid://dng4ogn65q8av"]
+
+[ext_resource type="Texture2D" uid="uid://cghqrs3ts1t2y" path="res://icon.svg" id="1_ab5ph"]
+[ext_resource type="Script" uid="uid://dk606pk41d3wj" path="res://UnitResource.gd" id="2_kg0lo"]
+
+[resource]
+script = ExtResource("2_kg0lo")
+name = ""
+HP = 1
+PWR = 4
+SPD = 2
+ENG = 1
+GRD = 1
+metadata/_custom_type_script = "uid://dk606pk41d3wj"

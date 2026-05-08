@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dpfe1hb5kdj1l"]
+
+[ext_resource type="Script" uid="uid://brcit471cjj6k" path="res://dodge_bar.gd" id="1_plg1k"]
+
+[node name="CanvasLayer" type="CanvasLayer" unique_id=136727329]
+script = ExtResource("1_plg1k")
+
+[node name="Bar" type="ColorRect" parent="." unique_id=433425267]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="SafeZone" type="ColorRect" parent="." unique_id=2071331018]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Needle" type="ColorRect" parent="." unique_id=266597274]
+offset_right = 40.0
+offset_bottom = 40.0
